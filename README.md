@@ -1,90 +1,171 @@
-## Hi there 👋
+<p align="center">
+  <img src="gif%20banner.gif" width="520"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Saksham Mangla</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=Machine+Learning+Engineer+in+Progress;Blockchain+Systems+Builder;Data+Pipeline+Explorer;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+in+Progress;Production+ML+Pipeline+Builder;Agentic+AI+Systems+Developer;FastAPI+%7C+AWS+%7C+XGBoost" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🧠 About Me
 
-🎓 B.Tech Student (ECS)  
-🧠 Learning Machine Learning step-by-step with real datasets  
-🔐 Building **Digital Health Passport using Blockchain**  
-📊 Working on clustering & preprocessing pipelines  
-⚡ Preparing for ML internships
+AI/ML developer and B.Tech ECS student (2027) building **production-style ML systems, autonomous AI agents, and cloud-deployed inference pipelines**
 
----
+✔ ML pipelines (finance + healthcare)  
+✔ Agentic AI systems with memory & orchestration  
+✔ FastAPI deployment for real-time prediction services  
+✔ AWS-powered cloud AI integrations  
 
-## 🧩 Current Projects
-
-🔹 Customer Personality Detection (ML Clustering)  
-🔹 Digital Health Passport (Blockchain)  
-🔹 Data preprocessing pipelines using Pandas & Scikit-Learn  
+Currently seeking **AI / ML / Data Science Internship roles**
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 Featured Projects
+
+## 📈 Bitcoin Return Predictor — Financial ML Pipeline
+
+• Engineered SMA, volatility & lag-based features  
+• Built regression pipeline with Linear Regression & XGBoost  
+• Applied walk-forward validation to eliminate leakage  
+• Evaluated Sharpe Ratio, RMSE, MAE & Max Drawdown  
+
+Production-style modular ML architecture
+
+---
+
+## 🧬 NeuroLedger — Healthcare AI + Blockchain Platform
+
+• ML-based fatigue detection & patient risk scoring  
+• FastAPI microservice deployment with Joblib serialization  
+• ABHA identity verification pipeline  
+• AWS S3 storage integration  
+• Blockchain-backed medical integrity logging  
+
+Real-time clinical prediction serving via REST APIs
+
+---
+
+## 🤖 Founder Research Agent — Autonomous AI System
+
+• Multi-stage agentic pipeline with persistent JSON memory  
+• Web scraping + NLP summarization orchestration  
+• LLM fallback chain implementation  
+• Flask REST deployment with frontend UI  
+
+Structured founder intelligence generation engine
+
+---
+
+## 🧠 Developer AI Agent — Code Analysis Assistant
+
+• OpenAI-powered automated bug detection engine  
+• JSON structured improvement suggestions  
+• Auto-documentation generator  
+• REST API endpoint: `/api/analyze`
+
+Accessible AI code-review assistant
+
+---
+
+## ☁️ AWS Face Recognition Attendance System
+
+Serverless AI pipeline using:
+
+• AWS Rekognition  
+• S3 storage  
+• Lambda event triggers  
+
+Real-time identity verification workflow
+
+---
+
+# 🛠 Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,sql" />
+</p>
+
+---
 
 ### Machine Learning
-![NumPy](https://img.shields.io/badge/NumPy-darkblue?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
-![ScikitLearn](https://img.shields.io/badge/ScikitLearn-orange?style=for-the-badge&logo=scikitlearn)
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+Scikit-learn • XGBoost • Pandas • NumPy  
+Matplotlib • Seaborn  
+Feature Engineering • Cross Validation  
+Hyperparameter Tuning • Model Evaluation
+
+---
+
+### Deployment & APIs
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flask,fastapi,docker" />
+</p>
+
+REST APIs • Joblib • Streamlit
+
+---
+
+### Cloud & Infrastructure
+
+AWS:
+
+S3 • Lambda • Rekognition • SageMaker (basics)
+
+---
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
-![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter)
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+</p>
+
+Jupyter Notebook
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SakshamMangla1204&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SakshamMangla1204&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SakshamMangla1204&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=SakshamMangla1204&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamMangla1204&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🐍 Contribution Snake Animation (Auto-updates)
-
-<p align="center">
-  <img src="https://github.com/SakshamMangla1204/SakshamMangla1204/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamMangla1204&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🎯 2026 Goals
+# 🐍 Contribution Activity
 
-✔ Build strong ML portfolio  
-✔ Deploy blockchain major project  
-✔ Contribute to open-source  
-✔ Secure ML internship
+<p align="center">
+<img src="https://raw.githubusercontent.com/SakshamMangla1204/SakshamMangla1204/output/github-contribution-grid-snake.svg">
+</p>
 
-<!--
-**SakshamMangla1204/SakshamMangla1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# 🎯 2026 Goals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✔ Deploy scalable ML inference APIs  
+✔ Publish 2 production-grade ML pipeline repositories  
+✔ Contribute to open-source AI tooling  
+✔ Secure AI / ML Internship
+
+---
+
+<p align="center">
+⚡ Building intelligent systems, not just models
+</p>
