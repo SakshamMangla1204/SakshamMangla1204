@@ -1,23 +1,69 @@
 <p align="center">
-  <img src="gif%20banner.gif" width="520"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=header"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Saksham Mangla</h1>
+<h2 align="center">Hey there, Saksham this side! 👋</h2>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 About Me
+
+🎓 B.Tech ECS (2027) student  
+🤖 AI / ML Engineer in progress  
+⚙️ Building production ML pipelines  
+☁️ Deploying models using FastAPI & AWS  
+🔐 Developing Healthcare AI + Blockchain platform  
+🚀 Exploring Agentic AI systems  
+
+🎯 2026 Goals:
+- Publish production-grade ML repositories
+- Deploy scalable inference APIs
+- Contribute to open-source AI tools
+- Secure AI/ML Internship
+
+</td>
+
+<td width="50%">
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+in+Progress;Production+ML+Pipeline+Builder;Agentic+AI+Systems+Developer;FastAPI+%7C+AWS+%7C+XGBoost" />
+  <img src="gif%20banner.gif" width="90%"/>
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/SakshamMangla1204">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="mailto:saksham.quant@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/saksham-mangla11">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 </p>
 
 ---
 
 # 🧠 About Me
 
-AI/ML developer and B.Tech ECS student (2027) building **production-style ML systems, autonomous AI agents, and cloud-deployed inference pipelines**
+AI/ML developer and B.Tech ECS student (2027) building production-style ML pipelines, autonomous AI agents, and cloud-deployed inference APIs.
 
-✔ ML pipelines (finance + healthcare)  
-✔ Agentic AI systems with memory & orchestration  
-✔ FastAPI deployment for real-time prediction services  
-✔ AWS-powered cloud AI integrations  
+✔ Financial ML pipelines  
+✔ Healthcare AI + Blockchain platform  
+✔ FastAPI microservice deployment  
+✔ AWS serverless AI systems  
+✔ Agentic research automation systems  
 
 Currently seeking **AI / ML / Data Science Internship roles**
 
@@ -27,56 +73,56 @@ Currently seeking **AI / ML / Data Science Internship roles**
 
 ## 📈 Bitcoin Return Predictor — Financial ML Pipeline
 
-• Engineered SMA, volatility & lag-based features  
-• Built regression pipeline with Linear Regression & XGBoost  
-• Applied walk-forward validation to eliminate leakage  
-• Evaluated Sharpe Ratio, RMSE, MAE & Max Drawdown  
+• Feature engineering (SMA, volatility, lag features)  
+• Walk-forward validation pipeline  
+• Linear Regression + XGBoost comparison  
+• Metrics: RMSE, MAE, Sharpe Ratio, Max Drawdown  
 
-Production-style modular ML architecture
+Production-ready modular ML architecture
 
 ---
 
 ## 🧬 NeuroLedger — Healthcare AI + Blockchain Platform
 
-• ML-based fatigue detection & patient risk scoring  
-• FastAPI microservice deployment with Joblib serialization  
-• ABHA identity verification pipeline  
+• Patient risk scoring ML models  
+• Fatigue detection system  
+• FastAPI REST deployment  
 • AWS S3 storage integration  
-• Blockchain-backed medical integrity logging  
+• Blockchain integrity logging  
 
-Real-time clinical prediction serving via REST APIs
+Real-time clinical inference system
 
 ---
 
 ## 🤖 Founder Research Agent — Autonomous AI System
 
-• Multi-stage agentic pipeline with persistent JSON memory  
-• Web scraping + NLP summarization orchestration  
-• LLM fallback chain implementation  
-• Flask REST deployment with frontend UI  
+• Multi-stage agent pipeline  
+• Persistent JSON memory  
+• LLM fallback orchestration  
+• Flask REST API deployment  
 
-Structured founder intelligence generation engine
+Automated founder intelligence generator
 
 ---
 
 ## 🧠 Developer AI Agent — Code Analysis Assistant
 
-• OpenAI-powered automated bug detection engine  
-• JSON structured improvement suggestions  
-• Auto-documentation generator  
-• REST API endpoint: `/api/analyze`
+• Automated bug detection  
+• Improvement suggestions  
+• Auto-documentation engine  
+• `/api/analyze` REST endpoint  
 
-Accessible AI code-review assistant
+AI-powered code review assistant
 
 ---
 
 ## ☁️ AWS Face Recognition Attendance System
 
-Serverless AI pipeline using:
+Serverless architecture using:
 
 • AWS Rekognition  
-• S3 storage  
-• Lambda event triggers  
+• AWS Lambda  
+• AWS S3  
 
 Real-time identity verification workflow
 
@@ -84,67 +130,76 @@ Real-time identity verification workflow
 
 # 🛠 Tech Stack
 
-### Languages
+## 👨‍💻 Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,sql" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,sql,html,css" />
 </p>
 
 ---
 
-### Machine Learning
+## 🤖 Machine Learning & Data Science
+
+Scikit-learn • XGBoost • NumPy • Pandas  
+Matplotlib • Seaborn  
+Feature Engineering  
+Cross Validation  
+Hyperparameter Tuning  
+Model Evaluation  
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=tensorflow" />
 </p>
 
-Scikit-learn • XGBoost • Pandas • NumPy  
-Matplotlib • Seaborn  
-Feature Engineering • Cross Validation  
-Hyperparameter Tuning • Model Evaluation
-
 ---
 
-### Deployment & APIs
+## ⚙️ Deployment & APIs
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flask,fastapi,docker" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,docker" />
 </p>
 
-REST APIs • Joblib • Streamlit
+REST APIs • Streamlit • Joblib
 
 ---
 
-### Cloud & Infrastructure
+## ☁️ Cloud & Infrastructure
 
 AWS:
 
-S3 • Lambda • Rekognition • SageMaker (basics)
+S3 • Lambda • Rekognition • SageMaker (Basics)
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws" />
+</p>
 
 ---
 
-### Tools
+## 🧰 Tools & Environment
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,jupyter" />
 </p>
-
-Jupyter Notebook
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SakshamMangla1204&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SakshamMangla1204&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SakshamMangla1204&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=SakshamMangla1204&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SakshamMangla1204&theme=tokyo-night&hide_border=true"/>
 </p>
 
+---
+
+# 🏆 Achievements
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamMangla1204&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SakshamMangla1204&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
@@ -152,7 +207,7 @@ Jupyter Notebook
 # 🐍 Contribution Activity
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/SakshamMangla1204/SakshamMangla1204/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/SakshamMangla1204/SakshamMangla1204/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
@@ -160,9 +215,9 @@ Jupyter Notebook
 # 🎯 2026 Goals
 
 ✔ Deploy scalable ML inference APIs  
-✔ Publish 2 production-grade ML pipeline repositories  
+✔ Publish production-grade ML pipeline repositories  
 ✔ Contribute to open-source AI tooling  
-✔ Secure AI / ML Internship
+✔ Secure AI / ML Internship  
 
 ---
 
