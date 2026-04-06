@@ -4,6 +4,10 @@
 
 <h2 align="center">Hey there, Saksham this side! 👋</h2>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2800&pause=700&color=00C2FF&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+in+Progress;Building+Production+ML+Pipelines;FastAPI+%7C+AWS+%7C+XGBoost;Agentic+AI+Systems+Explorer" />
+</p>
+
 <table>
 <tr>
 <td width="50%">
