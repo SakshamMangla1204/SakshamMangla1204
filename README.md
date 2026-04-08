@@ -234,23 +234,6 @@ seeking : AI / ML / Data Science Internship
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SakshamMangla1204&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4"/>
-
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SakshamMangla1204/SakshamMangla1204/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
 
 ---
 
