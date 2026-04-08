@@ -1,17 +1,17 @@
 <p align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" 
-          srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=48&pause=999999&color=FF00FF&center=true&vCenter=true&width=700&height=80&lines=Saksham+Mangla">
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=48&pause=999999&color=22D3EE&center=true&vCenter=true&width=700&height=80&lines=Saksham+Mangla">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=48&pause=999999&color=1f2937&center=true&vCenter=true&width=700&height=80&lines=Saksham+Mangla">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=48&pause=999999&color=1F2937&center=true&vCenter=true&width=700&height=80&lines=Saksham+Mangla">
 </picture>
 
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" 
-          srcset="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=999999&color=A78BFA&center=true&vCenter=true&width=700&height=40&lines=AI+Engineer+%7C+ML+Pipelines+%7C+Cloud+Systems">
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=999999&color=818CF8&center=true&vCenter=true&width=700&height=40&lines=AI+Engineer+%7C+ML+Pipelines+%7C+Cloud+Systems">
 
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=999999&color=374151&center=true&vCenter=true&width=700&height=40&lines=AI+Engineer+%7C+ML+Pipelines+%7C+Cloud+Systems">
 </picture>
