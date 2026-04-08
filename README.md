@@ -1,5 +1,21 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1a1a2e,100:16213e&height=140&section=header&text=Saksham%20Mangla&fontSize=42&fontColor=E2E8F0&fontAlignY=65&animation=fadeIn&desc=AI%20Engineer%20%7C%20ML%20Pipelines%20%7C%20Cloud%20Systems&descAlignY=85&descSize=15&descColor=94A3B8"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=48&pause=999999&color=FF00FF&center=true&vCenter=true&width=700&height=80&lines=Saksham+Mangla">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=48&pause=999999&color=1f2937&center=true&vCenter=true&width=700&height=80&lines=Saksham+Mangla">
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=999999&color=A78BFA&center=true&vCenter=true&width=700&height=40&lines=AI+Engineer+%7C+ML+Pipelines+%7C+Cloud+Systems">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=999999&color=374151&center=true&vCenter=true&width=700&height=40&lines=AI+Engineer+%7C+ML+Pipelines+%7C+Cloud+Systems">
+</picture>
+
 </p>
 
 <div align="center">
