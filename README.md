@@ -224,22 +224,6 @@ ARCH     :  fully serverless · zero cold infra · event-driven
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=36&text=◈%20NEURAL%20ACTIVITY%20◈&fontSize=14&fontColor=00ffff&fontAlignY=65&animation=twinkling" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/SakshamMangla1204/SakshamMangla1204/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SakshamMangla1204/SakshamMangla1204/output/github-contribution-grid-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/SakshamMangla1204/SakshamMangla1204/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-</div>
-
----
-
-<div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=SakshamMangla1204&theme=darkhub&no-frame=true&row=1&column=7&margin-w=4"/>
 </div>
 
