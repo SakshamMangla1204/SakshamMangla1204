@@ -2,11 +2,7 @@
 
 <img src="banner updated.gif" width="100%"/>
 
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=14&duration=2200&pause=800&color=F0E040&background=00000000&center=true&vCenter=true&width=860&lines=sys%3A%3A+walk_forward_validation(btc_data)+→+DEPLOYED+✓;sys%3A%3A+agent.run(%22research_founders%22)+→+llm_fallback+%2B+memory;sys%3A%3A+rekognition.compare_faces(frame)+→+attendance.write();sys%3A%3A+risk_model.predict(vitals)+→+FastAPI+→+AWS_S3+✓;sys%3A%3A+docker+build+%26%26+lambda+deploy+→+LIVE+✓" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=16&duration=2500&pause=1200&color=F0E040&center=true&vCenter=true&width=860&height=50&lines=⚡+Data+is+the+new+oil+—+and+I'm+here+to+mine+it;sys%3A%3A+walk_forward_validation(btc)+→+DEPLOYED+✓;sys%3A%3A+risk_model.predict(vitals)+→+FastAPI+→+AWS+✓;sys%3A%3A+docker+build+%26%26+lambda+deploy+→+LIVE+✓)](https://github.com/SakshamMangla1204)
 
 </div>
 
@@ -263,6 +259,4 @@ ARCH     :  fully serverless · zero cold infra · event-driven
 
 <br/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=50&text=◢%20train%20→%20validate%20→%20deploy%20→%20repeat%20◣&fontSize=13&fontColor=f0e040&fontAlignY=60&animation=twinkling" width="100%"/>
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=14&duration=4000&pause=3000&color=F0E040&center=true&vCenter=true&width=860&height=45&lines=◢+train+→+validate+→+deploy+→+repeat+◣)](https://github.com/SakshamMangla1204)
