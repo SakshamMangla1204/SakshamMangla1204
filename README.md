@@ -2,20 +2,21 @@
 
 <img src="banner updated.gif" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=16&duration=2500&pause=1200&color=F0E040&center=true&vCenter=true&width=860&height=50&lines=⚡+Data+is+the+new+oil+—+and+I'm+here+to+mine+it;sys%3A%3A+walk_forward_validation(btc)+→+DEPLOYED+✓;sys%3A%3A+risk_model.predict(vitals)+→+FastAPI+→+AWS+✓;sys%3A%3A+docker+build+%26%26+lambda+deploy+→+LIVE+✓)](https://github.com/SakshamMangla1204)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=16&duration=2500&pause=1200&color=F0E040&center=true&vCenter=true&width=860&height=50&lines=⚡+Orchestrating+agents%2C+not+just+models;sys%3A%3A+n8n.workflow(lead_gen)+→+DEPLOYED+✓;sys%3A%3A+langgraph.agent(research)+→+Sheets+✓;sys%3A%3A+flowise%2Flangflow+→+prod+pipelines+✓)](https://github.com/SakshamMangla1204)
 
 </div>
 
 <div align="center">
 
 ![](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=f0e040)
-![](https://img.shields.io/badge/XGBOOST-000000?style=for-the-badge&logoColor=f0e040)
+![](https://img.shields.io/badge/N8N-000000?style=for-the-badge&logo=n8n&logoColor=f0e040)
+![](https://img.shields.io/badge/LANGCHAIN-000000?style=for-the-badge&logoColor=00ffff)
+![](https://img.shields.io/badge/LANGGRAPH-000000?style=for-the-badge&logoColor=00ffff)
+![](https://img.shields.io/badge/FLOWISE-000000?style=for-the-badge&logoColor=f0e040)
+![](https://img.shields.io/badge/LANGFLOW-000000?style=for-the-badge&logoColor=f0e040)
 ![](https://img.shields.io/badge/FASTAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00ffff)
-![](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=f0e040)
-![](https://img.shields.io/badge/SKLEARN-000000?style=for-the-badge&logo=scikit-learn&logoColor=00ffff)
 ![](https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=00ffff)
-![](https://img.shields.io/badge/TENSORFLOW-000000?style=for-the-badge&logo=tensorflow&logoColor=f0e040)
-![](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=ffffff)
+![](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=f0e040)
 
 </div>
 
@@ -32,26 +33,29 @@
 class SakshamMangla:
 
     ID     = "B.Tech ECS '27 · India 🇮🇳"
+    ROLE   = "Agentic AI / AI Automation Engineer"
     STATUS = "ONLINE ◉"
 
     stack = {
-        "ML"    : ["XGBoost", "sklearn", "TF"],
-        "APIs"  : ["FastAPI", "Flask", "REST"],
-        "cloud" : ["AWS S3", "Lambda", "Rekognition"],
-        "tools" : ["Docker", "Git", "Jupyter"],
+        "orchestration" : ["n8n", "LangGraph", "LangChain",
+                            "Flowise", "Langflow"],
+        "models"        : ["Ollama (local)", "Groq", "Gemini Flash",
+                            "OpenAI", "Anthropic", "Mistral", "Cohere"],
+        "serving"       : ["FastAPI", "Flask", "REST"],
+        "infra"         : ["Docker", "AWS", "Google Sheets (memory)"],
     }
 
     missions = [
-        "📈  financial ML pipelines",
-        "🧬  healthcare AI + blockchain",
-        "🤖  autonomous research agents",
-        "☁️   serverless inference @ AWS",
+        "🤖  autonomous multi-agent research systems",
+        "🔗  no-code / low-code AI workflow orchestration",
+        "🧠  persistent agent memory + tool-calling pipelines",
+        "⚙️   automation-first architecture over model-tuning",
     ]
 
-    def execute(self, idea: str) -> str:
-        model = self.train(idea)
-        api   = self.wrap_fastapi(model)
-        return self.deploy_aws(api)  # LIVE ✓
+    def execute(self, workflow: str) -> str:
+        agent   = self.orchestrate(workflow)   # n8n / LangGraph
+        wired   = self.wire_tools(agent)       # LLM + APIs + memory
+        return self.deploy(wired)              # RUNNING ✓
 ```
 
 </td>
@@ -71,51 +75,70 @@ class SakshamMangla:
 
 <br/>
 
-### `01` — 📈 Bitcoin Return Predictor
+### `01` — 🧬 AI-Powered Digital Academic Twin
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│  INPUT  :  raw OHLCV data                                       │
-│  OUTPUT :  return forecasts + risk metrics                      │
+│  B.Tech major project — multi-agent orchestration                │
 ├─────────────────────────────────────────────────────────────────┤
-│  raw_data → feature_eng()   # SMA · volatility · lag feats     │
-│           → walk_forward()  # zero lookahead bias               │
-│           → compare()       # LinearReg  ⚔  XGBoost            │
-│           → metrics()       # RMSE · MAE · Sharpe · Drawdown   │
-│           → export()        # prod-ready module ✓               │
+│  student_data ──► agent_pool[]  ──► coordinator_agent            │
+│                    ├─ progress_agent                             │
+│                    ├─ planning_agent                             │
+│                    └─ recommendation_agent                       │
+│  GOAL : model & simulate a student's academic journey at scale   │
+│  TARGET : university / ed-tech deployment                        │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
+![](https://img.shields.io/badge/Multi--Agent-000?style=flat-square&logoColor=f0e040)
+![](https://img.shields.io/badge/LangGraph-000?style=flat-square&logoColor=00ffff)
 ![](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=f0e040)
-![](https://img.shields.io/badge/XGBoost-000?style=flat-square&logoColor=f0e040)
-![](https://img.shields.io/badge/Pandas-000?style=flat-square&logo=pandas&logoColor=00ffff)
-![](https://img.shields.io/badge/NumPy-000?style=flat-square&logo=numpy&logoColor=00ffff)
 
 ---
 
-### `02` — 🧬 NeuroLedger
+### `02` — ⚙️ AI Startup Lead-Gen Pipeline
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│  clinical_data ──► risk_model.predict() ──► FastAPI /infer     │
-│                                         │                       │
-│                                    AWS S3 ◄── store            │
-│                                         │                       │
-│                         blockchain_log(sha256, ts) ◄── audit   │
+│  n8n workflow ──► Tavily (web search) ──► Ollama (Qwen3:8b)     │
+│                                        │                         │
+│                             enrich + qualify + score             │
+│                                        │                         │
+│                              Google Sheets ◄── write             │
 ├─────────────────────────────────────────────────────────────────┤
-│  MODELS : patient risk scorer · fatigue detector               │
-│  STACK  : FastAPI · AWS S3 · integrity chain                   │
+│  FULLY LOCAL LLM · zero API cost · self-hosted orchestration     │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-![](https://img.shields.io/badge/FastAPI-000?style=flat-square&logo=fastapi&logoColor=00ffff)
-![](https://img.shields.io/badge/AWS-000?style=flat-square&logo=amazon-aws&logoColor=f0e040)
-![](https://img.shields.io/badge/sklearn-000?style=flat-square&logo=scikit-learn&logoColor=00ffff)
-![](https://img.shields.io/badge/Blockchain-000?style=flat-square&logoColor=ffffff)
+![](https://img.shields.io/badge/n8n-000?style=flat-square&logoColor=f0e040)
+![](https://img.shields.io/badge/Ollama-000?style=flat-square&logoColor=00ffff)
+![](https://img.shields.io/badge/Tavily-000?style=flat-square&logoColor=f0e040)
+![](https://img.shields.io/badge/Google_Sheets-000?style=flat-square&logo=googlesheets&logoColor=00ffff)
 
 ---
 
-### `03` — 🤖 Founder Research Agent
+### `03` — 🔍 Internship & Company Research Agent
+
+```python
+# LANGGRAPH · DUAL-PIPELINE AGENTIC SYSTEM
+pipeline_1 = "Discovery → Research → Contact → QC → Scoring"
+pipeline_2 = "Application workflow"
+
+agent = ResearchAgent(
+    graph  = "langgraph",
+    memory = "google_sheets",   # persistent memory layer
+)
+# ── company_name ──► discover() ──► research() ──► score()
+#                  ──► memory.write(sheet_row)  # audit trail ✓
+```
+
+![](https://img.shields.io/badge/LangGraph-000?style=flat-square&logoColor=00ffff)
+![](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=f0e040)
+![](https://img.shields.io/badge/Persistent_Memory-000?style=flat-square&logoColor=f0e040)
+
+---
+
+### `04` — 🤖 Founder Research Agent
 
 ```python
 # AUTONOMOUS MULTI-STAGE PIPELINE
@@ -135,7 +158,24 @@ agent.run(founder_name)  # ──► full intelligence brief ✓
 
 ---
 
-### `04` — 👾 Developer AI Agent
+### `05` — 🎬 Langflow Video-Summarization Pipeline
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  Chat Input ──► YouTube Transcripts ──► Parser ──► Groq          │
+├─────────────────────────────────────────────────────────────────┤
+│  BUILT IN LANGFLOW · chunked-transcript strategy                 │
+│  simplified linear flow after Loop-component limitations         │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+![](https://img.shields.io/badge/Langflow-000?style=flat-square&logoColor=f0e040)
+![](https://img.shields.io/badge/Groq-000?style=flat-square&logoColor=00ffff)
+![](https://img.shields.io/badge/YouTube_API-000?style=flat-square&logo=youtube&logoColor=ff0000)
+
+---
+
+### `06` — 👾 Developer AI Agent
 
 ```bash
 # ENDPOINT
@@ -153,21 +193,6 @@ POST /api/analyze
 
 ---
 
-### `05` — ☁️ Face Recognition Attendance
-
-```
-TRIGGER  :  image ──► S3 bucket
-PIPELINE :  S3 event ──► Lambda() ──► Rekognition.compare_faces()
-                                   ──► attendance_db.write(id, ts)
-ARCH     :  fully serverless · zero cold infra · event-driven
-```
-
-![](https://img.shields.io/badge/Rekognition-000?style=flat-square&logo=amazon-aws&logoColor=f0e040)
-![](https://img.shields.io/badge/Lambda-000?style=flat-square&logo=aws-lambda&logoColor=00ffff)
-![](https://img.shields.io/badge/S3-000?style=flat-square&logo=amazon-s3&logoColor=f0e040)
-
----
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=36&text=◈%20TECH%20MATRIX%20◈&fontSize=14&fontColor=00ffff&fontAlignY=65&animation=twinkling" width="100%"/>
 </div>
@@ -180,24 +205,26 @@ ARCH     :  fully serverless · zero cold infra · event-driven
 
 <br/><br/>
 
-![](https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=00ffff)
-![](https://img.shields.io/badge/XGBoost-000000?style=for-the-badge&logoColor=f0e040)
-![](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=f0e040)
-![](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=00ffff)
-![](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=00ffff)
-![](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=python&logoColor=ffffff)
+![](https://img.shields.io/badge/n8n-000000?style=for-the-badge&logoColor=f0e040)
+![](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logoColor=00ffff)
+![](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logoColor=00ffff)
+![](https://img.shields.io/badge/Flowise-000000?style=for-the-badge&logoColor=f0e040)
+![](https://img.shields.io/badge/Langflow-000000?style=for-the-badge&logoColor=f0e040)
+![](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=00ffff)
+
+![](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=f0e040)
+![](https://img.shields.io/badge/Anthropic-000000?style=for-the-badge&logoColor=00ffff)
+![](https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=googlegemini&logoColor=f0e040)
+![](https://img.shields.io/badge/Groq-000000?style=for-the-badge&logoColor=00ffff)
+![](https://img.shields.io/badge/Mistral-000000?style=for-the-badge&logoColor=f0e040)
+![](https://img.shields.io/badge/Cohere-000000?style=for-the-badge&logoColor=00ffff)
 
 ![](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00ffff)
 ![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=ffffff)
 ![](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00ffff)
 ![](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=f0e040)
-![](https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=f0e040)
-
 ![](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=f0e040)
 ![](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff)
-![](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=f0e040)
-![](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=00ffff)
-![](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=f0e040)
 
 </div>
 
@@ -243,4 +270,4 @@ ARCH     :  fully serverless · zero cold infra · event-driven
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=14&duration=4000&pause=3000&color=F0E040&center=true&vCenter=true&width=860&height=45&lines=◢+train+→+validate+→+deploy+→+repeat+◣)](https://github.com/SakshamMangla1204)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=14&duration=4000&pause=3000&color=F0E040&center=true&vCenter=true&width=860&height=45&lines=◢+design+→+orchestrate+→+deploy+→+repeat+◣)](https://github.com/SakshamMangla1204)
