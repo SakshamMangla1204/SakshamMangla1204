@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="banner updated.gif" width="100%"/>
+<img src="banner%20updated.gif" width="100%"/>
+
+<img src="ai_engineer.svg" alt="AI Engineer" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=16&duration=2500&pause=1200&color=F0E040&center=true&vCenter=true&width=860&height=50&lines=⚡+Orchestrating+agents%2C+not+just+models;sys%3A%3A+n8n.workflow(lead_gen)+→+DEPLOYED+✓;sys%3A%3A+langgraph.agent(research)+→+Sheets+✓;sys%3A%3A+flowise%2Flangflow+→+prod+pipelines+✓)](https://github.com/SakshamMangla1204)
 
@@ -33,7 +35,7 @@
 class SakshamMangla:
 
     ID     = "B.Tech ECS '27 · India 🇮🇳"
-    ROLE   = "Agentic AI / AI Automation Engineer"
+    ROLE   = "AI Engineer"
     STATUS = "ONLINE ◉"
 
     stack = {
