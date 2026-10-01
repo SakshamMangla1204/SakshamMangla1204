@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1856" height="60" viewBox="0 0 1856 60" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <style>
+      .terminal-text {
+        font-family: Monaco, monospace;
+        font-size: 20px;
+        fill: #00ff41;
+        font-weight: 500;
+        text-rendering: optimizeLegibility;
+      }
+      .terminal-cursor {
+        fill: #00ff41;
+        animation: terminalBlink 1.0s ease-in-out infinite;
+      }
+      @keyframes terminalBlink {
+        0%, 45% { opacity: 1; }
+        50%, 95% { opacity: 0.4; }
+        100% { opacity: 1; }
+      }
+      .terminal-char {
+        opacity: 0;
+        animation: terminalType 5.92s linear 0.3s forwards;
+      }
+      .emoji-icon {
+        opacity: 0;
+        animation: terminalType 5.92s linear 0.3s forwards;
+      }
+      @keyframes terminalType {
+        0% { opacity: 0; }
+        100% { opacity: 1; }
+      }
+      .prompt {
+        fill: #ffffff;
+        opacity: 1;
+        font-weight: 600;
+      }
+      @media (prefers-reduced-motion: reduce) {
+        .terminal-char, .emoji-icon { animation: none; opacity: 1; }
+        .terminal-cursor { animation: none; opacity: 1; }
+      }
+    </style>
+  </defs>
+  
+  <rect width="1856" height="60" fill="#000000" rx="4"/>
+  <rect x="0" y="0" width="1856" height="22" fill="#1a1a1a" rx="4 4 0 0"/>
+  <circle cx="15" cy="11" r="3" fill="#ff5f56"/>
+  <circle cx="35" cy="11" r="3" fill="#ffbd2e"/>
+  <circle cx="55" cy="11" r="3" fill="#27ca3f"/>
+  
+  <g class="terminal-text">
+    <text x="20" y="41.666666666666664" class="terminal-text">
+                    <tspan class="prompt">$</tspan>
+                  </text><text x="32" y="41.666666666666664" class="terminal-text">
+                    <tspan class="prompt">&#160;</tspan>
+                  </text><text x="44" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 0.08s">A</tspan>
+                  </text><text x="56" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 0.12s">I</tspan>
+                  </text><text x="68" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 0.16s">&#160;</tspan>
+                  </text><text x="80" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 0.2s">E</tspan>
+                  </text><text x="92" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 0.24s">N</tspan>
+                  </text><text x="104" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 0.28s">G</tspan>
+                  </text><text x="116" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 0.32s">I</tspan>
+                  </text><text x="128" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 0.36s">N</tspan>
+                  </text><text x="140" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 0.4s">E</tspan>
+                  </text><text x="152" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 0.44s">E</tspan>
+                  </text><text x="164" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 0.48s">R</tspan>
+                  </text><text x="176" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 0.52s">I</tspan>
+                  </text><text x="188" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 0.56s">N</tspan>
+                  </text><text x="200" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 0.6s">G</tspan>
+                  </text><text x="212" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 0.64s">.</tspan>
+                  </text><text x="224" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 0.68s">e</tspan>
+                  </text><text x="236" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 0.72s">x</tspan>
+                  </text><text x="248" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 0.76s">e</tspan>
+                  </text><text x="260" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 0.8s">
+</tspan>
+                  </text><text x="272" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 0.84s">></tspan>
+                  </text><text x="284" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 0.88s">></tspan>
+                  </text><text x="296" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 0.92s">&#160;</tspan>
+                  </text><text x="308" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 0.96s">I</tspan>
+                  </text><text x="320" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 1s">N</tspan>
+                  </text><text x="332" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 1.04s">I</tspan>
+                  </text><text x="344" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 1.08s">T</tspan>
+                  </text><text x="356" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 1.12s">I</tspan>
+                  </text><text x="368" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 1.16s">A</tspan>
+                  </text><text x="380" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 1.2s">L</tspan>
+                  </text><text x="392" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 1.24s">I</tspan>
+                  </text><text x="404" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 1.28s">Z</tspan>
+                  </text><text x="416" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 1.32s">I</tspan>
+                  </text><text x="428" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 1.36s">N</tspan>
+                  </text><text x="440" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 1.4s">G</tspan>
+                  </text><text x="452" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 1.44s">&#160;</tspan>
+                  </text><text x="464" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 1.48s">I</tspan>
+                  </text><text x="476" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 1.52s">N</tspan>
+                  </text><text x="488" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 1.56s">T</tspan>
+                  </text><text x="500" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 1.6s">E</tspan>
+                  </text><text x="512" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 1.64s">L</tspan>
+                  </text><text x="524" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 1.68s">L</tspan>
+                  </text><text x="536" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 1.72s">I</tspan>
+                  </text><text x="548" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 1.76s">G</tspan>
+                  </text><text x="560" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 1.8s">E</tspan>
+                  </text><text x="572" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 1.84s">N</tspan>
+                  </text><text x="584" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 1.88s">C</tspan>
+                  </text><text x="596" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 1.92s">E</tspan>
+                  </text><text x="608" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 1.96s">.</tspan>
+                  </text><text x="620" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 2s">.</tspan>
+                  </text><text x="632" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 2.04s">.</tspan>
+                  </text><text x="644" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 2.08s">
+</tspan>
+                  </text><text x="656" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 2.12s">></tspan>
+                  </text><text x="668" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 2.16s">></tspan>
+                  </text><text x="680" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 2.2s">&#160;</tspan>
+                  </text><text x="692" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 2.24s">S</tspan>
+                  </text><text x="704" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 2.28s">P</tspan>
+                  </text><text x="716" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 2.32s">A</tspan>
+                  </text><text x="728" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 2.36s">W</tspan>
+                  </text><text x="740" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 2.4s">N</tspan>
+                  </text><text x="752" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 2.44s">I</tspan>
+                  </text><text x="764" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 2.48s">N</tspan>
+                  </text><text x="776" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 2.52s">G</tspan>
+                  </text><text x="788" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 2.56s">&#160;</tspan>
+                  </text><text x="800" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 2.6s">A</tspan>
+                  </text><text x="812" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 2.64s">G</tspan>
+                  </text><text x="824" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 2.68s">E</tspan>
+                  </text><text x="836" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 2.72s">N</tspan>
+                  </text><text x="848" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 2.76s">T</tspan>
+                  </text><text x="860" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 2.8s">S</tspan>
+                  </text><text x="872" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 2.84s">.</tspan>
+                  </text><text x="884" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 2.88s">.</tspan>
+                  </text><text x="896" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 2.92s">.</tspan>
+                  </text><text x="908" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 2.96s">
+</tspan>
+                  </text><text x="920" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 3s">></tspan>
+                  </text><text x="932" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 3.04s">></tspan>
+                  </text><text x="944" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 3.08s">&#160;</tspan>
+                  </text><text x="956" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 3.12s">C</tspan>
+                  </text><text x="968" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 3.16s">O</tspan>
+                  </text><text x="980" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 3.2s">N</tspan>
+                  </text><text x="992" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 3.24s">N</tspan>
+                  </text><text x="1004" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 3.28s">E</tspan>
+                  </text><text x="1016" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 3.32s">C</tspan>
+                  </text><text x="1028" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 3.36s">T</tspan>
+                  </text><text x="1040" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 3.4s">I</tspan>
+                  </text><text x="1052" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 3.44s">N</tspan>
+                  </text><text x="1064" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 3.48s">G</tspan>
+                  </text><text x="1076" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 3.52s">&#160;</tspan>
+                  </text><text x="1088" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 3.56s">L</tspan>
+                  </text><text x="1100" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 3.6s">L</tspan>
+                  </text><text x="1112" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 3.64s">M</tspan>
+                  </text><text x="1124" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 3.68s">S</tspan>
+                  </text><text x="1136" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 3.72s">.</tspan>
+                  </text><text x="1148" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 3.76s">.</tspan>
+                  </text><text x="1160" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 3.8s">.</tspan>
+                  </text><text x="1172" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 3.84s">
+</tspan>
+                  </text><text x="1184" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 3.88s">></tspan>
+                  </text><text x="1196" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 3.92s">></tspan>
+                  </text><text x="1208" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 3.96s">&#160;</tspan>
+                  </text><text x="1220" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 4s">A</tspan>
+                  </text><text x="1232" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 4.04s">U</tspan>
+                  </text><text x="1244" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 4.08s">T</tspan>
+                  </text><text x="1256" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 4.12s">O</tspan>
+                  </text><text x="1268" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 4.16s">M</tspan>
+                  </text><text x="1280" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 4.2s">A</tspan>
+                  </text><text x="1292" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 4.24s">T</tspan>
+                  </text><text x="1304" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 4.28s">I</tspan>
+                  </text><text x="1316" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 4.32s">N</tspan>
+                  </text><text x="1328" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 4.36s">G</tspan>
+                  </text><text x="1340" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 4.4s">&#160;</tspan>
+                  </text><text x="1352" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 4.44s">R</tspan>
+                  </text><text x="1364" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 4.48s">E</tspan>
+                  </text><text x="1376" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 4.52s">A</tspan>
+                  </text><text x="1388" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 4.56s">L</tspan>
+                  </text><text x="1400" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 4.6s">I</tspan>
+                  </text><text x="1412" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 4.64s">T</tspan>
+                  </text><text x="1424" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 4.68s">Y</tspan>
+                  </text><text x="1436" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 4.72s">.</tspan>
+                  </text><text x="1448" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 4.76s">.</tspan>
+                  </text><text x="1460" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 4.8s">.</tspan>
+                  </text><text x="1472" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 4.84s">
+</tspan>
+                  </text><text x="1484" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 4.88s">></tspan>
+                  </text><text x="1496" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 4.92s">></tspan>
+                  </text><text x="1508" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 4.96s">&#160;</tspan>
+                  </text><text x="1520" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 5s">S</tspan>
+                  </text><text x="1532" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 5.04s">Y</tspan>
+                  </text><text x="1544" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 5.08s">S</tspan>
+                  </text><text x="1556" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 5.12s">T</tspan>
+                  </text><text x="1568" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 5.16s">E</tspan>
+                  </text><text x="1580" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 5.2s">M</tspan>
+                  </text><text x="1592" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 5.24s">&#160;</tspan>
+                  </text><text x="1604" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 5.28s">S</tspan>
+                  </text><text x="1616" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 5.32s">T</tspan>
+                  </text><text x="1628" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 5.36s">A</tspan>
+                  </text><text x="1640" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 5.4s">T</tspan>
+                  </text><text x="1652" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 5.44s">U</tspan>
+                  </text><text x="1664" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 5.48s">S</tspan>
+                  </text><text x="1676" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 5.52s">:</tspan>
+                  </text><text x="1688" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 5.56s">&#160;</tspan>
+                  </text><text x="1700" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 5.6s">C</tspan>
+                  </text><text x="1712" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 5.64s">O</tspan>
+                  </text><text x="1724" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 5.68s">O</tspan>
+                  </text><text x="1736" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 5.72s">K</tspan>
+                  </text><text x="1748" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 5.76s">I</tspan>
+                  </text><text x="1760" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 5.8s">N</tspan>
+                  </text><text x="1772" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 5.84s">G</tspan>
+                  </text><text x="1784" y="41.666666666666664" class="terminal-text">
+                    <tspan class="terminal-char" style="animation-delay: 5.88s">&#160;</tspan>
+                  </text>
+    
+    <text x="1796" y="41.666666666666664" class="terminal-text">
+                  <tspan class="terminal-cursor" style="animation-delay: 6.22s">▌</tspan>
+                </text>
+  </g>
+</svg>
