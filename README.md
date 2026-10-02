@@ -60,12 +60,14 @@ class SakshamMangla:
         return self.deploy(wired)              # RUNNING ✓
 ```
 
+<img src="Workflow%20Automation%20n8n%20animation.svg" alt="Workflow Automation" width="100%"/>
+
 </td>
 <td width="46%" align="center" valign="middle">
 
-<img src="gif%20banner.gif" width="100%"/>
-
 <img src="Splash%20screen.svg" alt="Splash screen" width="100%"/>
+
+<img src="gif%20banner.gif" width="100%"/>
 
 </td>
 </tr>
